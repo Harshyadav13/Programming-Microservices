@@ -1,3 +1,19 @@
-# Ignore MongoDB or database files
+# MySQL data folder
+order-service/mysql/
+
+# MongoDB data folder
 product-service/data/
-product-service/data/**
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
